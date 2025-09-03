@@ -12,6 +12,6 @@ Model Architecture: Implements transfer learning using pre-trained architectures
 
 Training Pipeline: Utilizes TensorFlow/Keras with image data generators, custom normalization, and callbacks for early stopping and model checkpointing.
 
-Performance: ResNet50 achieved an accuracy of approximately 93.81% on the test dataset, demonstrating effective classification of seven common skin lesion types.
+Performance: ResNet50 achieved an accuracy of 93.81% on the test dataset, demonstrating effective classification of seven common skin lesion types.
 
 Visualization: Provides training/validation accuracy and loss plots, confusion matrix, and classification reports to analyze model performance comprehensively.
