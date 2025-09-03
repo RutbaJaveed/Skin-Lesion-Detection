@@ -1,7 +1,9 @@
 **Skin Lesion Detection Using Deep Learning Models**
+
 This repository contains a deep learning-based system for automated skin lesion classification utilizing the HAM10000 dermoscopic image dataset. The project is aimed at developing an accurate and robust multi-class classifier for seven types of skin lesions, supporting early detection and diagnosis of skin cancer.
 
 *Project Overview*
+
 The system encompasses all stages from data preprocessing to model training and evaluation:
 
 Data Preparation: Includes loading and preprocessing images, handling class imbalance with targeted augmentation techniques, and splitting the data.
