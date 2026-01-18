@@ -8,9 +8,7 @@ The system encompasses all stages from data preprocessing to model training and 
 
 Data Preparation: Includes loading and preprocessing images, handling class imbalance with targeted augmentation techniques, and splitting the data.
 
-Model Architecture: Implements transfer learning using pre-trained architectures like ResNet50, EfficientNetB3, fine-tuned for the HAM10000 dataset.
-
-Training Pipeline: Utilizes TensorFlow/Keras with image data generators, custom normalization, and callbacks for early stopping and model checkpointing.
+Model Architecture: Implements transfer learning using pre-trained architectures like ResNet50 fine-tuned for the HAM10000 dataset.
 
 Performance: ResNet50 achieved an accuracy of 93.81% on the test dataset, demonstrating effective classification of seven common skin lesion types.
 
